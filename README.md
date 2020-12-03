@@ -53,3 +53,12 @@ Now let's use your skills in working with weather data to plan future vacations.
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+
+### Technologies Used
+* Python
+* Pandas
+* Numpy
+* SciPy.stats
+* Matplotlib
+* CitiPy
+* API
